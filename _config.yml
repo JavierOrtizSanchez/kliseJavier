@@ -14,11 +14,11 @@ author:
   bio: >- # tell to the world
     Este tema tiene modo oscuro y claro, a eleccion del diseñador, conoce mas sobre esto en
     <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  username: Javi10ortiz # general username
+  github: JavierOrtizSanchez # github username
+  twitter: Javi10ortiz # twitter username
+  facebook: Javi10ortiz # facebook username
+  email: Javi10ortiz@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
